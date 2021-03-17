@@ -1,0 +1,46 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.main-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  padding-top: 49.5px;
+}
+
+.main-menu_item {
+  list-style: none;
+  padding-left: 25.5px;
+  padding-right: 25.5px;
+  font-weight: 450;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #20262a;
+}
+
+.logo {
+  padding-top: 30px;
+  padding-left: 91px;
+}
+
+.button_login {
+  height: 52px;
+  width: 140px;
+  text-align: center;
+  border: 1px solid #00b6f0;
+  color: #00b6f0;
+  background-color: transparent;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  border-radius: 85px;
+  margin-top: 33px;
+  margin-right: 90px;
+}
